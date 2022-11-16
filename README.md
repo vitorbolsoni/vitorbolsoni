@@ -1,7 +1,7 @@
 - 👋 Olá! Eu sou o Vitor Bolsoni...
 - 🌱 Atualmente cursando Engenharia de Softwares.
 - 💞️ Trabalho na TI da Unimed Noroeste Capixaba.
-- 📫 Entre em contato pelo e-mail vitorbolsoni@gamil.com
+- 📫 Entre em contato pelo e-mail vitorbolsoni@gmail.com
 
 
 <!---
